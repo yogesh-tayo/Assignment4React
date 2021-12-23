@@ -1,0 +1,29 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "Bengaluru",
+            "likes": 64,
+            "description": "Cricket is my favourite sport",
+            "PostImage": "https://images.moneycontrol.com/static-mcnews/2021/10/Virat-Kohli-illustration-770x433.jpg?impolicy=website&width=400&height=250" ,
+            "Date": "11-06-2016"
+            
+        },
+        {
+            "name": "Neeraj",
+            "location": "Pune",
+            "likes": 30,
+            "description": "people choose their life as they want",
+            "PostImage": "https://images.moneycontrol.com/static-mcnews/2021/10/Virat-Kohli-illustration-770x433.jpg?impolicy=website&width=400&height=250",
+            "Date": "10-06-2016"
+        },
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "what is in the name?",
+            "PostImage": "https://images.moneycontrol.com/static-mcnews/2021/10/Virat-Kohli-illustration-770x433.jpg?impolicy=website&width=400&height=250",
+            "Date": "10-06-2016"
+        }
+    ]
+}
