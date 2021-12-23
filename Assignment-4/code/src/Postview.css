@@ -1,11 +1,53 @@
-.site-container{
-  text-align: center;
+
+.insta{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
-html {
-  font-size: 14px;
+
+
+.logo{
+  float: right;
+  height:60px;
 }
-body {
-  line-height: 1.5;
-  color: black;
-  margin:0;
-} 
+.site-container h1{
+  padding-left: 10px;
+  text-align: left;
+}
+.post{
+  margin-left: 500px;
+  height: 400px;
+  width:400px;
+  background-color: rgb(140, 22, 236);
+  margin-top: 20px;
+}
+.post .box1{
+  width:380px;
+  height: 50px;
+  padding:10px 10px 10px 10px;
+  background-color: rgb(243, 140, 43);
+}
+.post .box2{
+  width:400px;
+  height:240px;
+  
+}
+.post .box3{
+  width:400px;
+  height:90px;
+  background-color: cornflowerblue;
+  
+
+
+}
+
+.post .box3 .box31{
+  float: right;
+  color:black;
+  padding:10px 10px 10px 10px;
+}
+.post .box3 .box32{
+  float: left;
+  color:black;
+  padding:10px 10px 10px 10px;
+}
